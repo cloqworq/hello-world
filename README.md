@@ -1,2 +1,2 @@
 # hello-world
-#I am slateon frederick, a student at The Citadel.
+# I am slateon frederick, a student at The Citadel.
